@@ -72,6 +72,3 @@ sh build.sh
 ```bash
 go test -parallel 1
 ```
-
-## 联系方式
-* 邮箱：freedom11235@126.com
